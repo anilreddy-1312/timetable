@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.m{
+    text-align: center;
+    margin: 5%;
+    padding: 0%;
+  
+}
+.c{
+    text-align: center;
+    margin: auto;
+    padding: 0%;
+    width: 30%;
+    height: 10%;
+}
+.v{
+    background: lightblue;
+}
+.lo{
+    height: auto;
+    width: auto;
+}

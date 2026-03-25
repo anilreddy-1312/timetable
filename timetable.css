@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    width: 80%;
+    height: 60%;
+    margin: auto;
+}
+
+.y{
+    background: yellow;
+
+}
+.g{
+    background: green;
+}
+.b{
+    background: whitesmoke;
+}
+.p{
+    background: pink;
+
+}
+.o{
+    background: orange;
+}
+.v{
+    background: violet;
+}
+.a{
+    background: red;
+}
+.lo{
+    text-align: center;
+    
+}
+.f{
+    background: darkolivegreen;
+}
+.w{
+  background: lightgreen;
+}
+.q{
+    background: lightgray;
+}
+.m{
+    background: light;
+}
+tr{
+    text-align: center;
+}
